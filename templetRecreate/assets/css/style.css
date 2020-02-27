@@ -28,7 +28,6 @@ ul.navigation{
 .navigation li:hover{
     color: blue;
     cursor: pointer;
-    text-decoration: underline;
 }
 .content{
     height: 100vh;
